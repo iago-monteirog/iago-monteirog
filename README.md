@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Hi! My Name is Iago!<br>  📍 I'm from Brazil <br>🔭 I'm currently working on a React Project at my company 'Softtek'<br>💻 I'm starting to work as a Freelancer too.<br>📖 I'm currently learning about Angular and Node.js API's Restful.<br>🏖 I love going to the beach.<br>
+🤓 Hi! My Name is Iago!<br>  📍 I'm from Brazil <br>🔭 I'm currently working on a React Project at my company 'Softtek'<br>💻 I'm starting to work as a Freelancer too.<br>📖 I'm currently learning about Angular, React Native and Node.js API's Restful.<br>🏖 I love going to the beach.<br>
 
 
 ## 🌐 Socials:
